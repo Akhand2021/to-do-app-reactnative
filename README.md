@@ -16,7 +16,6 @@ To get started with the To-Do app, follow these steps:
 2. The app will open in your default web browser or in the Expo Go app on your device.
 3. You will see the home screen of the To-Do app, displaying the list of tasks.
 4. Add a new task by tapping the "+" button at the bottom of the screen and entering the task details.
-5. Edit a task by tapping on it and updating the task details.
 6. Delete a task by swiping left on the task item and tapping the delete button.
 7. Mark a task as complete by tapping the checkbox next to the task.
 
